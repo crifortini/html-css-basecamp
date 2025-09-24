@@ -5,5 +5,42 @@
 }
 
 body{
-    width: 1280px
+    width: 1280px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 100%;
+}
+
+.search-bar{
+    width: 12rem;
+}
+
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding-left: 1rem;
+
+}
+
+.logo{
+    background-color: remove;
+}
+
+a{  
+    text-decoration: none;
+    color: white;    
+}
+
+.search-bar2{
+    background-color: #2b2b2b;
+    padding: 1rem;
+
+}
+
+.input2{
+    border-radius: 1rem;
+    padding: 0.3rem 6% .3rem 1rem ;
 }
